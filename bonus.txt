@@ -1,0 +1,4 @@
+-sam & goku
+-dino- moving in radom way at chocen area(1 squr to direction)
+-enemy holding poiosn/slow sign while infected
+-victory table save in record.txt and show to 5
